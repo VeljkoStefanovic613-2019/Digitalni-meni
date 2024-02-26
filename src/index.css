@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .custom-button {
+      @apply px-4 py-2 font-medium text-white bg-crna-100 border-solid border-2 border-yellow-500 hover:bg-yellow-500 rounded-lg text-center mr-4;
+    }
+    
+  
+  }
+  
+ 

@@ -1,0 +1,1473 @@
+{
+    "items": [
+          {
+            "Id": 1,
+            "name": "KAČAMAK",
+            "price": 330,
+            "desc": "(kukuruzno brašno, krispi slaninica, sir)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 2,
+            "name": "OMLET/KAJGANA (šunka ili povrće)",
+            "price": 390,
+            "desc": "(3 jaja, šunka ili povrće, sir, paradajz, tost hleb)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 3,
+            "name": "OMLET/KAJGANA (pršuta ili slanina)",
+            "price": 490,
+            "desc": "(3 jaja, pršuta ili slanina, sir, paradajz, tost hleb)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 4,
+            "name": "OMLET/KAJGANA (losos)",
+            "price": 620,
+            "desc": "(3 jaja, losos, mocarela, paradajz, sir, rukola, avokado, tost hleb)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 5,
+            "name": "FRITATA",
+            "price": 380,
+            "desc": "(3 jaja, pršuta ili slanina, sir, paradajz, tost hleb)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 6,
+            "name": "PASTRMAJLIJA",
+            "price": 580,
+            "desc": "(hrskavo testo sa mariniranom svinjetinom, sirom, kuvanim jajima i paprikom)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 7,
+            "name": "ŠAKŠUHA",
+            "price": 520,
+            "desc": "(3 jaja, pančeta, paprika, praziluk, pelat, sir)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 8,
+            "name": "ITALIJANSKE PRŽENICE",
+            "price": 450,
+            "desc": "(tost hleb, šunka, mocarela, paviaka. pelat)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 9,
+            "name": "UŠTIPCI 6kom",
+            "price": 380,
+            "desc": "(slatki, slani)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 10,
+            "name": "UŠTIPCI 6kom",
+            "price": 410,
+            "desc": "(mix)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 11,
+            "name": "BRUSKETI",
+            "price": 470,
+            "desc": "(špek, masline,šampinjoni, mocarela, kapar, inćuni, baget)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 12,
+            "name": "TERMINAL DORUČAK",
+            "price": 640,
+            "desc": "(kobasica, 2 jaja, sir, ajvar, slanina)",
+            "category": "hrana",
+            "subcategory": "dorucak"
+        },
+        {
+            "Id": 13,
+            "name": "CEZAR SALATA",
+            "price": 780,
+            "desc": "(pileći file, pančeta, parmezan, iceberg, čeri paradajz, krotoni, cezar dresing)",
+            "category": "hrana",
+            "subcategory": "obrokSalate"
+        },
+        {
+            "Id": 14,
+            "name": "TUNA SALATA",
+            "price": 830,
+            "desc": "(sveža tuna, kuvano jaje, iceberg, čeri paradajz, šećerac, crveni pasulj, praziluk)",
+            "category": "hrana",
+            "subcategory": "obrokSalate"
+        },
+        {
+            "Id": 15,
+            "name": "LOSOS SALATA",
+            "price": 940,
+            "desc": "(losos, kuvano jaje, iceberg čeri paradajz, suve šljive, suve smokve, bademovo ulje, crni susam, avokado)",
+            "category": "hrana",
+            "subcategory": "obrokSalate"
+        },
+        {
+            "Id": 16,
+            "name": "DASKA TERMINAL",
+            "price": 1600,
+            "desc": "*za 2 osobe*(goveđa pršuta, špek, kobasica, gorgonzola, parmezan, mocarela, kravlji sir, koziji sir, čeri paradajz, masline, suve šljive, suve smokve, rukola)",
+            "category": "hrana",
+            "subcategory": "predjela"
+        },
+        {
+            "Id": 17,
+            "name": "SVINJSKI FILE U SOSU OD ŠLJIVA 250g",
+            "price": 880,
+            "desc": "(svinjski file u sosu od suvih šljiva sa grilovanim povrcem, vedžis krompir)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 18,
+            "name": "BURITO 300g",
+            "price": 920,
+            "desc": "(svinjski fle u tortilji sa teryaki sosem, mocarela, crveni pasulj, kukuruz šećerac, praziluk, čedar sir, vedžis krompir",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 19,
+            "name": "KESADILJA SA PILETINOM 300g",
+            "price": 770,
+            "desc": "(pileći file sa mocarelom i prazilukom u tortilji sa čili sosom)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 20,
+            "name": "PILEĆI FILE 300g",
+            "price": 740,
+            "desc": "(pileci file sa roštilja, pomfrit)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 21,
+            "name": "PUNJENI PILEĆI FILE 300g",
+            "price": 860,
+            "desc": "(pileći file punjen kačkavaljem i šunkom, vedžis krompir)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 22,
+            "name": "PILEĆI RAŽNJIĆ SA ROŠTILJA 300g",
+            "price": 750,
+            "desc": "(pileće belo meso posluženo sa vedžis krompirom)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 23,
+            "name": "KOBASICA SA ROŠTILJA 250g",
+            "price": 810,
+            "desc": "(domaća kobasica poslužena sa vedžis  krompirom)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 24,
+            "name": "FILE LOSOSA 250g",
+            "price": 1880,
+            "desc": "(file lososa na rukoli sa avokadom)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 25,
+            "name": "BIFTEK 250g",
+            "price": 2100,
+            "desc": "(juneći biftek poslužen sa grilovanim povrćem)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 26,
+            "name": "TALJATA BIFTEK 250g",
+            "price": 2140,
+            "desc": "(juneći biftek poslužen sa parmezanom)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 27,
+            "name": "VEGE WOK (posno, vege, gluten free) 250g",
+            "price": 880,
+            "desc": "(nudle, šampinjoni, paprika, tikvice, praziluk, teryaki, kikiriki)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 28,
+            "name": "TERMINAL GLAVNO JELO",
+            "price": 2240,
+            "desc": "*za 2 osobe*(pileći file, svinjski file, 2 kobasice, vedžis krompir, čeri paradajz, masline, šampinjoni)",
+            "category": "hrana",
+            "subcategory": "specijalitetiKuce"
+        },
+        {
+            "Id": 29,
+            "name": "SENDVIČ SA ŠUNKOM",
+            "price": 390,
+            "desc": " (domaća lepinja, šunka, mocarela, pavlaka, zelena salata, paradajz)",
+            "category": "hrana",
+            "subcategory": "sendvici"
+            },
+            {
+            "Id": 30,
+            "name": "SENDVIČ SA KULENOM",
+            "price": 420,
+            "desc": "(domaća lepinja, kulen, mocarela, pavlaka, zelena salata, paradajz)",
+            "category": "hrana",
+            "subcategory": "sendvici"
+            },
+            
+            {
+            "Id": 31,
+            "name": "SENDVIČ SA PRŠUTOM",
+            "price": 490,
+            "desc": "(domaća lepinja, pršuta, mocarela, pavlaka, zelena salata, paradajz)",
+            "category": "hrana",
+            "subcategory": "sendvici"
+            },
+            
+            {
+            "Id": 32,
+            "name": "SENDVIČ TUNA",
+            "price": 660,
+            "desc": "(domaća lepinja, sveža tuna, mocarela, pavlaka, zelena salata, praziluk, kuvano jaje)",
+            "category": "hrana",
+            "subcategory": "sendvici"
+            },
+
+            {
+            "Id": 33,
+            "name": "CEZAR SENDVIČ",
+            "price": 610,
+            "desc": "(domaća lepinja, pančeta, pileći file,  zelena salata, mocarela, paradajz, cezar dresing)",
+            "category": "hrana",
+            "subcategory": "sendvici"
+            },
+            {
+                "Id": 34,
+                "name": "KLUB SENDVIČ",
+                "price": 630,
+                "desc": "(tost hleb, pančeta, pileći file, paradajz, pečeno jaje, cezar dresing, vedžis krompir)",
+                "category": "hrana",
+                "subcategory": "sendvici"
+            },
+            {
+                "Id": 35,
+                "name": "CHEESEBURGER",
+                "price": 860,
+                "desc": "(juneće meso, pančeta, čedar sir, kiseli krastavac, zelena salata, paradajz, ešalot dresing, vedžis krompir)",
+                "category": "hrana",
+                "subcategory": "burgeri"
+            },
+            {
+              "Id": 36,
+              "name": "CHICKEN BURGER",
+              "price": 860,
+              "desc": "(juneće meso, pančeta, čedar sir, kiseli krastavac, zelena salata, paradajz, ešalot dresing, vedžis krompir)",
+              "category": "hrana",
+              "subcategory": "burgeri"
+            },
+            {
+              "Id": 37,
+              "name": "KARBONARA(špagete/taljatele)",
+              "price": 760,
+              "desc": "(testenina, pančeta, parmezan, jaje)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 38,
+              "name": "BOLONJEZE (špagete/taljatele)",
+              "price": 690,
+              "desc": "(testenina, parmezan, bolonjeza sos)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 39,
+              "name": "PASTA SA LOSOSOM(špagete/taljatele)",
+              "price": 760,
+              "desc": "(testenina, loso, pelat, neutralna pavlaka, parmezan)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 40,
+              "name": "PASTA 4 VRSTE SIRA(špagete/taljatele)",
+              "price": 720,
+              "desc": "(testenina, neutralna pavlaka, parmezan, gorgonzola, mocarela)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 41,
+              "name": "PASTA FRUTI DI MARE(špagete/taljatele)",
+              "price": 790,
+              "desc": "(testenina, plodovi mora, parmezan)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 42,
+              "name": "NJOKE SA BIFTEKOM I VRGANJIMA",
+              "price": 910,
+              "desc": "(njoke, juneći biftek, vrganji, beli luk, neutralna pavlaka, parmezan)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 43,
+              "name": "NJOKE SA PRŠUTOM",
+              "price": 860,
+              "desc": "(njoke, pršuta, sušeni paradajz, neutralna pavlaka, parmezan)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 44,
+              "name": "NJOKE SA POVRĆEM",
+              "price": 760,
+              "desc": "(njoke, tikvice, šampinjoni, zelena paprika, crvena paprika, praziluk, neutralna pavlaka)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 45,
+              "name": "RIŽOTO MORSKI PLODOVI",
+              "price": 880,
+              "desc": "(pirinač,mix morskih plodova, parmezan)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 46,
+              "name": "RIŽOTO SA PILETINOM I SPANAĆEM",
+              "price": 760,
+              "desc": "(pirinač, piletina, baby spanać, neutralna pavlaka, parmezan)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 47,
+              "name": "RIŽOTO SA POVRĆEM",
+              "price": 740,
+              "desc": "(pirinač, šampinjoni, tikvice, zelena paprika, crvena paprika, praziluk, neutralna pavlaka)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 48,
+              "name": "CRNI RIŽOTO",
+              "price": 910,
+              "desc": "(pirinač, mix morskih plodova, mastilo sipe, parmezan)",
+              "category": "hrana",
+              "subcategory": "pnjr"
+            },
+            {
+              "Id": 49,
+              "name": "JUNEĆA ČORBA",
+              "price": 350,
+              "desc": "(juneća ragu čorba sa povrćem)",
+              "category": "hrana",
+              "subcategory": "corbe"
+            },
+            {
+              "Id": 50,
+              "name": "POTAŽ DANA",
+              "price": 290,
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "corbe"
+            },
+            {
+              "Id": 51,
+              "name": "PIZZA MARGARITA 23cm/40x25",
+              "price": "440/880",
+              "desc": "(pelat, mocarela, rukola)",
+              "category": "hrana",
+              "subcategory": "pizza"
+            },
+            {
+              "Id": 52,
+              "name": "PICA CAPRICCIOSA 23cm/40x25",
+              "price": "490/980",
+              "desc": "(pelat, šunka, mocarela, šampinjoni, masline)",
+              "category": "hrana",
+              "subcategory": "pizza"
+            },
+            {
+              "Id": 53,
+              "name": "PIZA MAFIOZA 23cm/40x25",
+              "price": "510/1020",
+              "desc": "(pelat, kulen, mocarela, praziluk, susam, rukola)",
+              "category": "hrana",
+              "subcategory": "pizza"
+            },
+            {
+              "Id": 54,
+              "name": "PIZZA PANČETA 23cm/40x25",
+              "price": "560/1120",
+              "desc": "(pelat, pančeta, mocarela, kiseli krastavčići, paradajz, rukola)",
+              "category": "hrana",
+              "subcategory": "pizza"
+            },
+            {
+              "Id": 55,
+              "name": "PIZZA PRŠUTA 23cm/40x25",
+              "price": "560/1190",
+              "desc": "(pelat, pršuta, mocarela, parmezan, čeri paradajz, rukola)",
+              "category": "hrana",
+              "subcategory": "pizza"
+            },
+            {
+              "Id": 56,
+              "name": "SLATKE KIFLICE 6kom",
+              "price": 440,
+              "desc": "(džem/eurokrem)",
+              "category": "hrana",
+              "subcategory": "kiflice"
+            },
+            {
+              "Id": 57,
+              "name": "SLATKE KIFLICE 6kom",
+              "price": 470,
+              "desc": "(nutela)",
+              "category": "hrana",
+              "subcategory": "kiflice"
+            },
+            {
+              "Id": 58,
+              "name": "SLANE KIFLICE 6kom",
+              "price": 540,
+              "desc": "(sir)",
+              "category": "hrana",
+              "subcategory": "kiflice"
+            },
+            {
+              "Id": 59,
+              "name": "SLANE KIFLICE 6kom",
+              "price": 670,
+              "desc": "(pršuta, mocarela)",
+              "category": "hrana",
+              "subcategory": "kiflice"
+            },
+            {
+              "Id": 60,
+              "name": "KNEDLE SA ŠLJIVAMA",
+              "price": 410,
+              "desc": "(knedle sa šljivama na musu od čokolade, lešnikom i plazmom)",
+              "category": "hrana",
+              "subcategory": "poslastice"
+            },
+            {
+              "Id": 61,
+              "name": "PALAČINKE",
+              "price": "300/340/380/450",
+              "desc": "(džem, krem, krem-plazma, nutela)",
+              "category": "hrana",
+              "subcategory": "poslastice"
+            },
+            {
+              "Id": 62,
+              "name": "ČOKOLADNI SUFLE",
+              "price": 460,
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "poslastice"
+            },
+            {
+              "Id": 63,
+              "name": "PIZZA PANA",
+              "price": 90,
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "hleb"
+            },
+            {
+              "Id": 64,
+              "name": "FOKAČA",
+              "price": 110,
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "hleb"
+            },
+            {
+              "Id": 65,
+              "name": "MASLINE 100g",
+              "price": 180,
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "prilozi"
+            },
+            {
+              "Id": 66,
+              "name": "GRILOVANO POVRĆE 200g",
+              "price": 280,
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "prilozi"
+            },
+            {
+              "Id": 67,
+              "name": "VEDŽIS KROMPIR 250g",
+              "price": 280,
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "prilozi"
+            },
+            {
+              "Id": 68,
+              "name": "POMFRIT 100g/200g",
+              "price": "140/250",
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "prilozi"
+            },
+            {
+              "Id": 69,
+              "name": "MIX ZELENIH SALATA",
+              "price": 440,
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "salate"
+            },
+            {
+              "Id": 70,
+              "name": "GRČKA SALATA",
+              "price": 330,
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "salate"
+            },
+            {
+              "Id": 71,
+              "name": "ŠOPSKA SALATA",
+              "price": 390,
+              "desc": "",
+              "category": "hrana",
+              "subcategory": "salate"
+            },
+            {
+              "Id": 72,
+              "name": "DOMAĆA KAFA",
+              "price": 130,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+            },
+            {
+              "Id": 73,
+              "name": "DOMAĆA KAFA SA MLEKOM",
+              "price": 150,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 74,
+              "name": "ESPRESSO",
+              "price": 150,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 75,
+              "name": "ESPRESSO SA MLEKOM",
+              "price": 180,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 76,
+              "name": "ESPRESSO SA SOJINIM MLEKOM",
+              "price": 230,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 77,
+              "name": "NESCAFE",
+              "price": 220,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 78,
+              "name": "CAPPUCCINO",
+              "price": 190,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 79,
+              "name": "CAPPUCCINO SA SOJINIM MLEKOM",
+              "price": 240,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 80,
+              "name": "CAFFE LATTE",
+              "price": 230,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 81,
+              "name": "FREDO ESPRESSO",
+              "price": 230,
+              "desc": "(espresso, mleko, led)",
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 82,
+              "name": "AMARULA COFFEE",
+              "price": 240,
+              "desc": "(espresso, crem liquer, mleko, led)",
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 83,
+              "name": "TERMINAL COFFEE",
+              "price": 310,
+              "desc": "(espresso, plazma, toping, mleko)",
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 84,
+              "name": "MILK SHAKE",
+              "price": 250,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 85,
+              "name": "PLAZMA SHAKE",
+              "price": 370,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 86,
+              "name": "TOPLA ČOKOLADA",
+              "price": 270,
+              "desc": "(crna, bela)",
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 87,
+              "name": "ČAJEVI DOLCEZZA",
+              "price": 220,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+              "Id": 88,
+              "name": "KUVANO VINO 0,2",
+              "price": 320,
+              "category": "pice",
+              "subcategory": "kafetoplinapici"
+          },
+          {
+            "Id": 89,
+            "name": "PEPSI 0.25",
+            "price": 230,
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+        {
+            "Id": 90,
+            "name": "PEPSI MAX 0.25",
+            "price": 230,
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+        {
+            "Id": 91,
+            "name": "MIRINDA 0.25",
+            "price": 230,
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+        {
+            "Id": 92,
+            "name": "SEVEN UP 0.25",
+            "price": 230,
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+        {
+            "Id": 93,
+            "name": "EVERVESS 0.25",
+            "price": 230,
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+        {
+            "Id": 94,
+            "name": "SCHWEPPES TONIC 0.25",
+            "price": 230,
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+        {
+            "Id": 95,
+            "name": "EVE 0.25",
+            "price": 230,
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+        {
+            "Id": 96,
+            "name": "GUSTO SOKOVI",
+            "price": 230,
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+        {
+            "Id": 97,
+            "name": "COCKTA 0.275",
+            "price": 230,
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+        {
+            "Id": 98,
+            "name": "REMIX KNJAZ",
+            "price": 230,
+            "desc": "(breskva, pomorandža)",
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+        {
+            "Id": 99,
+            "name": "CEDEVITA",
+            "price": 190,
+            "desc": "(narandža, limun, limeta, zova, mango)",
+            "category": "pice",
+            "subcategory": "sokovi"
+        },
+            {
+              "Id": 100,
+              "name": "LIMUNADA 0.3",
+              "price": 220,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "cedjenisokovi"
+            },
+            {
+              "Id": 101,
+              "name": "CEĐENA POMORANDŽA 0.3",
+              "price": 380,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "cedjenisokovi"
+            },
+            {
+              "Id": 102,
+              "name": "CEĐENI GREJP 0.3",
+              "price": 390,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "cedjenisokovi"
+            },
+            {
+              "Id": 103,
+              "name": "VITAMINSKI NAPITAK",
+              "price": 390,
+              "desc": "(pomorandža, limun, grejp)",
+              "category": "pice",
+              "subcategory": "cedjenisokovi"
+            },
+            {
+              "Id": 104,
+              "name": "DETOX",
+              "price": 390,
+              "desc": "(pomorandža, jabuka, šargarepa, đumbir)",
+              "category": "pice",
+              "subcategory": "cedjenisokovi"
+            },
+            {
+              "Id": 105,
+              "name": "TROPIC MIX",
+              "price": 420,
+              "desc": "(pomorandža, kivi, limun, ananas)",
+              "category": "pice",
+              "subcategory": "cedjenisokovi"
+            },
+            {
+              "Id": 106,
+              "name": "LIMUNADA MONIN SIRUP 0.3",
+              "price": 300,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "monin"
+            },
+            {
+              "Id": 107,
+              "name": "LIMUNADA MONIN PIRE 0.3",
+              "price": 340,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "monin"
+            },
+            {
+              "Id": 108,
+              "name": "GUARANA",
+              "price": 260,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "energija"
+            },
+            {
+              "Id": 109,
+              "name": "GUARANA NO SLEEP",
+              "price": 260,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "energija"
+            },
+            {
+              "Id": 110,
+              "name": "RED BULL",
+              "price": 380,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "energija"
+            },
+            {
+              "Id": 111,
+              "name": "AQUA VIVA 0.33",
+              "price": 160,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "vodanegazirana"
+            },
+            {
+              "Id": 112,
+              "name": "AQUA VIVA 0.75",
+              "price": 260,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "vodanegazirana"
+            },
+            {
+              "Id": 113,
+              "name": "KNJAZ MILOŠ 0.33",
+              "price": 200,
+              "desc": "(limun/pomorandža)",
+              "category": "pice",
+              "subcategory": "vodagazirana"
+            },
+            {
+              "Id": 114,
+              "name": "KNJAZ MILOŠ 0.25",
+              "price": 170,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "vodagazirana"
+            },
+            {
+              "Id": 115,
+              "name": "KNJAZ MILOŠ 0.75",
+              "price": 290,
+              "desc": "",
+              "category": "pice",
+              "subcategory": "vodagazirana"
+            },
+            {
+              "Id": 116,
+              "name": "GRUŽANSKA NIT",
+              "price": 230,
+              "category": "pice",
+              "subcategory": "rakije"
+          },
+          {
+              "Id": 117,
+              "name": "GRUŽANSKA ZLATNA NIT",
+              "price": 380,
+              "category": "pice",
+              "subcategory": "rakije"
+          },
+          {
+              "Id": 118,
+              "name": "DESETKA ŠLJIVA",
+              "price": 270,
+              "category": "pice",
+              "subcategory": "rakije"
+          },
+          {
+              "Id": 119,
+              "name": "PODRUM PEVAC",
+              "price": 240,
+              "desc": "(dunja, kajsija, medovača)",
+              "category": "pice",
+              "subcategory": "rakije"
+          },
+          {
+              "Id": 120,
+              "name": "VILJAMOVKA TAKOVO",
+              "price": 280,
+              "category": "pice",
+              "subcategory": "rakije"
+          },
+          {
+              "Id": 121,
+              "name": "LOZA 13. JULI",
+              "price": 220,
+              "category": "pice",
+              "subcategory": "rakije"
+          },
+          {
+              "Id": 122,
+              "name": "ZLATNI PEVAC",
+              "price": 410,
+              "category": "pice",
+              "subcategory": "rakije"
+          },
+          {
+              "Id": 123,
+              "name": "ŠAMAR",
+              "price": 250,
+              "category": "pice",
+              "subcategory": "rakije"
+          },
+          {
+            "Id": 124,
+            "name": "JAMESON",
+            "price": 280,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 125,
+            "name": "JOHNNY WALKER RED",
+            "price": 260,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 126,
+            "name": "JOHNNY WALKER BLACK",
+            "price": 420,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 127,
+            "name": "CHIVAS REGAL 12 Y.O.",
+            "price": 390,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 128,
+            "name": "NAKED MALT",
+            "price": 350,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 129,
+            "name": "LAPHROAIG SINGLE MALT",
+            "price": 420,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 130,
+            "name": "THE FAMOUSE GROUSE",
+            "price": 270,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 131,
+            "name": "JACK DANIEL'S",
+            "price": 340,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 132,
+            "name": "JACK DANIEL'S HONEY",
+            "price": 360,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 133,
+            "name": "JACK DANIEL'S SINGLE BARREL",
+            "price": 520,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 134,
+            "name": "MONKEY SHOULDER",
+            "price": 340,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+            "Id": 135,
+            "name": "MACALLAN 12 Y.O.",
+            "price": 980,
+            "category": "pice",
+            "subcategory": "whiskey"
+        },
+        {
+          "Id": 136,
+          "name": "JIM BEAM",
+          "price": 280,
+          "category": "pice",
+          "subcategory": "bourbons"
+      },
+      {
+          "Id": 137,
+          "name": "JIM BEAM BLACK",
+          "price": 320,
+          "category": "pice",
+          "subcategory": "bourbons"
+      },
+      {
+          "Id": 138,
+          "name": "FOUR ROSES",
+          "price": 290,
+          "category": "pice",
+          "subcategory": "bourbons"
+      },
+      {
+        "Id": 139,
+        "name": "VINJAK 5",
+        "price": 230,
+        "category": "pice",
+        "subcategory": "brandycognac"
+    },
+    {
+        "Id": 140,
+        "name": "VINJAK XO RUBIN",
+        "price": 440,
+        "category": "pice",
+        "subcategory": "brandycognac"
+    },
+    {
+        "Id": 141,
+        "name": "REMY MARTIN V.S.O.P.",
+        "price": 650,
+        "category": "pice",
+        "subcategory": "brandycognac"
+    },
+    {
+        "Id": 142,
+        "name": "HENNESSEY VS",
+        "price": 460,
+        "category": "pice",
+        "subcategory": "brandycognac"
+    },
+    {
+      "Id": 143,
+      "name": "FINLANDIA",
+      "price": 210,
+      "category": "pice",
+      "subcategory": "vodka"
+  },
+  {
+      "Id": 144,
+      "name": "ABSOLUT",
+      "price": 230,
+      "category": "pice",
+      "subcategory": "vodka"
+  },
+  {
+      "Id": 145,
+      "name": "GREY GOOSE",
+      "price": 460,
+      "category": "pice",
+      "subcategory": "vodka"
+  },
+  {
+    "Id": 146,
+    "name": "BICKENS LONDON DRY GIN",
+    "price": 200,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 147,
+    "name": "HENDRICKS",
+    "price": 380,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 148,
+    "name": "THE BOTANIST DRY GIN",
+    "price": 560,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 149,
+    "name": "GORDON'S PINK",
+    "price": 220,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 150,
+    "name": "TANQUERAY LONDON DRY GIN",
+    "price": 310,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 151,
+    "name": "BRUGAL 1888 RUM",
+    "price": 560,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 152,
+    "name": "OLD PASCAC WHITE RUM",
+    "price": 220,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 153,
+    "name": "OLD PASCAS DARK",
+    "price": 310,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 154,
+    "name": "HAVANA CLUB",
+    "price": 560,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 155,
+    "name": "SIERRA BLANCO TEQUILA",
+    "price": 200,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 156,
+    "name": "SIERRA TROPICAL CHILLI TEQUILA",
+    "price": 200,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+    "Id": 157,
+    "name": "SIERRA GOLD TEQUILA",
+    "price": 230,
+    "category": "pice",
+    "subcategory": "tequila/gin/rum"
+},
+{
+  "Id": 158,
+  "name": "BAILEYS 0.03",
+  "price": 260,
+  "category": "pice",
+  "subcategory": "likeri"
+},
+{
+  "Id": 159,
+  "name": "CAMPARI 0.05",
+  "price": 250,
+  "category": "pice",
+  "subcategory": "likeri"
+},
+{
+  "Id": 160,
+  "name": "JEGERMEISTER 0.03",
+  "price": 260,
+  "category": "pice",
+  "subcategory": "likeri"
+},
+{
+  "Id": 161,
+  "name": "GORKI LIST 0.05",
+  "price": 230,
+  "category": "pice",
+  "subcategory": "likeri"
+},
+{
+  "Id": 162,
+  "name": "ABSINTHE 0.03",
+  "price": 240,
+  "category": "pice",
+  "subcategory": "likeri"
+},
+{
+  "Id": 163,
+  "name": "CINZANO ROSSO 0.05",
+  "price": 320,
+  "category": "pice",
+  "subcategory": "likeri"
+},
+{
+  "Id": 164,
+  "name": "MARTINI 0.03",
+  "price": 230,
+  "category": "pice",
+  "subcategory": "likeri"
+},
+{
+  "Id": 165,
+  "name": "SOMERSBY",
+  "price": 360,
+  "desc": "(jabuka, kruška, borovnica, mango, marakuja, jagoda 0%, mandarina 0%)",
+  "category": "pice",
+  "subcategory": "cider"
+},
+{
+  "Id": 166,
+  "name": "LAV PREMIUM 0.33",
+  "price": 190,
+  "category": "pice",
+  "subcategory": "toceno"
+},
+{
+  "Id": 167,
+  "name": "LAV PREMIUM 0.5",
+  "price": 260,
+  "category": "pice",
+  "subcategory": "toceno"
+},
+{
+  "Id": 168,
+  "name": "BLANC 1664 0.33",
+  "price": 240,
+  "category": "pice",
+  "subcategory": "toceno"
+},
+{
+  "Id": 169,
+  "name": "BLANC 1664 0.5",
+  "price": 300,
+  "category": "pice",
+  "subcategory": "toceno"
+},
+{
+  "Id": 170,
+  "name": "CARLSBERG 0.33",
+  "price": 270,
+  "category": "pice",
+  "subcategory": "toceno"
+},
+{
+  "Id": 171,
+  "name": "CARLSBERG 0.5",
+  "price": 350,
+  "category": "pice",
+  "subcategory": "toceno"
+},
+{
+  "Id": 172,
+  "name": "LAV PREMIUM 0.33",
+  "price": 190,
+  "category": "pice",
+  "subcategory": "pivo"
+},
+{
+  "Id": 173,
+  "name": "TUBORG 0.33",
+  "price": 270,
+  "category": "pice",
+  "subcategory": "pivo"
+},
+{
+  "Id": 174,
+  "name": "TUBORG ICE 0.33",
+  "price": 280,
+  "category": "pice",
+  "subcategory": "pivo"
+},
+{
+  "Id": 175,
+  "name": "BLANC 1664 0.33",
+  "price": 280,
+  "category": "pice",
+  "subcategory": "pivo"
+},
+{
+  "Id": 176,
+  "name": "CARLSBERG 0.25",
+  "price": 290,
+  "category": "pice",
+  "subcategory": "pivo"
+},
+{
+  "Id": 177,
+  "name": "BUDWEISER 0.33",
+  "price": 310,
+  "category": "pice",
+  "subcategory": "pivo"
+},
+{
+  "Id": 178,
+  "name": "BUDWEISER DARK 0.33",
+  "price": 310,
+  "category": "pice",
+  "subcategory": "pivo"
+},
+{
+  "Id": 179,
+  "name": "ERDINGER 0.33",
+  "price": 360,
+  "category": "pice",
+  "subcategory": "pivo"
+},
+{
+  "Id": 180,
+  "name": "SAN MIGUEL 0.35",
+  "price": 370,
+  "category": "pice",
+  "subcategory": "pivo"
+},
+{
+  "Id": 181,
+  "name": "CHARDONNAY LIMITED EDITION",
+  "price": 1600,
+  "category": "pice",
+  "subcategory": "vinobelo"
+},
+{
+  "Id": 182,
+  "name": "TAMJANIKA LASTAR 0.75",
+  "price": 2100,
+  "category": "pice",
+  "subcategory": "vinobelo"
+},
+{
+  "Id": 183,
+  "name": "TAMJANIKA IZAZOV 0.75",
+  "price": 2100,
+  "category": "pice",
+  "subcategory": "vinobelo"
+},
+{
+  "Id": 184,
+  "name": "CHARDONNAY KOVAČEVIĆ 0.75",
+  "price": 2600,
+  "category": "pice",
+  "subcategory": "vinobelo"
+},
+{
+  "Id": 185,
+  "name": "CABERNET&MERLOT LIMITED EDITION",
+  "price": 1600,
+  "category": "pice",
+  "subcategory": "vinocrveno"
+},
+{
+  "Id": 186,
+  "name": "CABERNET ZAGRLJAJ 0.75",
+  "price": 4600,
+  "category": "pice",
+  "subcategory": "vinocrveno"
+},
+{
+  "Id": 187,
+  "name": "PINOT NOIR LASTAR 0.75",
+  "price": 3000,
+  "category": "pice",
+  "subcategory": "vinocrveno"
+},
+{
+  "Id": 188,
+  "name": "REGENT ALEKSANDROVIĆ 0.75",
+  "price": 4100,
+  "category": "pice",
+  "subcategory": "vinocrveno"
+},
+{
+  "Id": 189,
+  "name": "MERLOT LASTAR 0.75",
+  "price": 3400,
+  "category": "pice",
+  "subcategory": "vinocrveno"
+},
+{
+  "Id": 190,
+  "name": "ROSE RADOVANOVIĆ 0.75",
+  "price": 2100,
+  "category": "pice",
+  "subcategory": "vinorose"
+},
+{
+  "Id": 191,
+  "name": "MISTRAL AU JARDIN 0.75",
+  "price": 2400,
+  "category": "pice",
+  "subcategory": "vinorose"
+},
+{
+  "Id": 192,
+  "name": "TAMJANIKA LUDA MARA",
+  "price": 420,
+  "category": "pice",
+  "subcategory": "vinocasa"
+},
+{
+  "Id": 193,
+  "name": "VRANEC LUDA MARA",
+  "price": 420,
+  "category": "pice",
+  "subcategory": "vinocasa"
+},
+{
+  "Id": 194,
+  "name": "CINZANO PRO SPRITZ 0.15",
+  "price": 430,
+  "category": "pice",
+  "subcategory": "sampanjac"
+},
+{
+  "Id": 195,
+  "name": "CINZANO PRO SPRITZ 0.75",
+  "price": 2150,
+  "category": "pice",
+  "subcategory": "sampanjac"
+}
+
+
+
+  
+    
+  ]
+}
